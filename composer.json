@@ -1,0 +1,32 @@
+{
+    "name": "aouniradouan/cart",
+    "type": "library",
+    "description": "Cart system",
+    "keywords": [
+        "merchant",
+        "e-commerce",
+        "cart"
+    ],
+    "homepage": "https://github.com/aouniradouan/cart",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Redwan Aouni",
+            "email": "aouniradouan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "/": "/"
+        }
+    },
+    "require": {
+    },
+    "require-dev": {
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.0.x-dev"
+        }
+    }
+}
